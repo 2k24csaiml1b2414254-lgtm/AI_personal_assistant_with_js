@@ -1,9 +1,0 @@
-agno
-streamlit
-python-dotenv
-groq
-yfinance
-duckduckgo-search
-rich
-youtube-transcript-api
-yt-dlp
